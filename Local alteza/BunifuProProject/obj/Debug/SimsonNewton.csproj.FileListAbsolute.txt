@@ -1,0 +1,33 @@
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\bin\Debug\BunifuProProject.exe.config
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\bin\Debug\BunifuProProject.exe
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\bin\Debug\BunifuProProject.pdb
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\SimsonNewton.csprojAssemblyReference.cache
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\BunifuProProject.Form1.resources
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\BunifuProProject.Properties.Resources.resources
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\SimsonNewton.csproj.GenerateResource.cache
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\SimsonNewton.csproj.CoreCompileInputs.cache
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\SimsonNewton.csproj.CopyComplete
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\BunifuProProject.exe
+C:\universidad\Extras\pagados\yeison´s girlfriend\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\BunifuProProject.pdb
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\SimsonNewton.csprojAssemblyReference.cache
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\BunifuProProject.Form1.resources
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\BunifuProProject.Properties.Resources.resources
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\SimsonNewton.csproj.GenerateResource.cache
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\SimsonNewton.csproj.CoreCompileInputs.cache
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\BunifuProProject.exe
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\BunifuProProject.pdb
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\bin\Debug\BunifuProProject.exe.config
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\bin\Debug\BunifuProProject.exe
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\bin\Debug\BunifuProProject.pdb
+C:\universidad\Extras\pagados\Simulación computacional\Falsa posicion y secante sin errores\BunifuProProject\obj\Debug\SimsonNewton.csproj.CopyComplete
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\bin\Debug\BunifuProProject.exe.config
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\bin\Debug\BunifuProProject.exe
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\bin\Debug\BunifuProProject.pdb
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\obj\Debug\SimsonNewton.csprojAssemblyReference.cache
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\obj\Debug\BunifuProProject.Form1.resources
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\obj\Debug\BunifuProProject.Properties.Resources.resources
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\obj\Debug\SimsonNewton.csproj.GenerateResource.cache
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\obj\Debug\SimsonNewton.csproj.CoreCompileInputs.cache
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\obj\Debug\SimsonNewton.csproj.CopyComplete
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\obj\Debug\BunifuProProject.exe
+C:\universidad\Extras\pagados\Simulación computacional\Local alteza\BunifuProProject\obj\Debug\BunifuProProject.pdb
